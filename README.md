@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://mous0926.github.io/](https://mous0926.github.io/)
+- 👨‍💻 My Portfolio: [https://mous0926.github.io/](https://mous0926.github.io/)
 
 - 💬 Ask me about **HTML | CSS | Javascript | MERN stack.**
 
