@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moumita Sarkar</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
-<img src=”https://img.etimg.com/thumb/msid-84146056,width-1200,height-900,imgsize-638053,resizemode-8/20210706_developer-economy_01.jpg” alt=”coding” width=”400” align=”right” >
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mous0926&label=Profile%20views&color=0e75b6&style=flat" alt="mous0926" /> </p>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
@@ -13,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/moumita-sarkar-9ab10318b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/moumita-sarkar-9ab10318b/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,4 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mous0926&show_icons=true&locale=en" alt="mous0926" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mous0926&" alt="mous0926" /></p>
-
