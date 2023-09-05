@@ -31,6 +31,8 @@
 <img src="https://img.shields.io/badge/MongoDB-text?style=for-the-badge&logo=mongodb&color=71CDFF"/>
 <img src="https://img.shields.io/badge/GIT-text?style=for-the-badge&logo=git&color=003366" />
 <img src="https://img.shields.io/badge/bootstrap-text?style=for-the-badge&logo=bootstrap&color=FFF68F"/>
+<img src="https://img.shields.io/badge/Adobe%20photoshop-text?style=for-the-badge&logo=adobephotoshop&color=0B0B3B" />
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-text?style=for-the-badge&logo=adobeillustrator&color=3B0B0B"/>
 
 </div>
 <br/><br/>
