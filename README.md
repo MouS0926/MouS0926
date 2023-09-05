@@ -32,7 +32,7 @@
    <img src="https://img.shields.io/badge/Express-text?style=for-the-badge&logo=express&color=204456" />
 <img src="https://img.shields.io/badge/MongoDB-text?style=for-the-badge&logo=mongodb&color=71CDFF"/>
 <img src="https://img.shields.io/badge/GIT-text?style=for-the-badge&logo=git&color=003366" />
-<img rsc="https://img.shields.io/badge/bootstrap-text?style=for-the-badge&logo=bootstrap&color=FFF68F"/>
+<img src="https://img.shields.io/badge/bootstrap-text?style=for-the-badge&logo=bootstrap&color=FFF68F"/>
 
 </div>
 
