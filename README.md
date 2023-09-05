@@ -22,10 +22,10 @@
 
 
 <div>
-  <img src="https://img.shields.io/badge/React-text?style=for-the-badge&logo=React&color=204456" />
+  <img src="https://img.shields.io/badge/React-text?style=for-the-badge&logo=React&color=003366" />
    <img src="https://img.shields.io/badge/redux-text?style=for-the-badge&logo=redux&color=204456" />
    <img src="https://img.shields.io/badge/typescript-text?style=for-the-badge&logo=typescript&color=204456" />
-   <img src="https://img.shields.io/badge/chakraui-text?style=for-the-badge&logo=chakraui&color=204456" />
+   <img src="https://img.shields.io/badge/chakraui-text?style=for-the-badge&logo=chakraui&color=3B0B24" />
  <img src="https://img.shields.io/badge/HTML5-text?style=for-the-badge&logo=HTML5&color=2b3b35" />
   <img src="https://img.shields.io/badge/javascript-text?style=for-the-badge&logo=javascript&color=204456" />
   <img src="https://img.shields.io/badge/node-text?style=for-the-badge&logo=node.js&color=204456" />
