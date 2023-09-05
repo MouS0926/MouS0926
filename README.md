@@ -11,6 +11,7 @@
 
 - 📫 How to reach me **sarkarmoumita314@gmail.com**
 
+<img src="https://github.com/MouS0926/MouS0926.github.io/blob/master/src/image/full-stack-development.gif" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/moumita-sarkar-9ab10318b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/moumita-sarkar-9ab10318b/" height="30" width="40" /></a>
