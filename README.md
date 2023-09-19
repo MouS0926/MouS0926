@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Moumita Sarkar</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
-
+<p align="center">
+An aspiring full-stack developer proficient in the MERN stack with a portfolio featuring several diverse projects, including an e-commerce platform, BMI calculator, and an AI-driven interview platform. Passionate about coding and continuously seeking opportunities to enhance skills in the field. Additionally, possesses a keen interest in cooking, art, and handicrafts, demonstrating a well-rounded and creative approach to life's pursuits.
+  
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mous0926&label=Profile%20views&color=0e75b6&style=flat" alt="mous0926" /> </p>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
