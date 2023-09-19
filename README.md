@@ -4,6 +4,8 @@
 An aspiring full-stack developer proficient in the MERN stack with a portfolio featuring several diverse projects, including an e-commerce platform, BMI calculator, and an AI-driven interview platform. Passionate about coding and continuously seeking opportunities to enhance skills in the field. Additionally, possesses a keen interest in cooking, art, and handicrafts, demonstrating a well-rounded and creative approach to life's pursuits.
   
 </p>
+
+<img src="https://github.com/MouS0926/MouS0926.github.io/blob/master/src/image/full-stack-development.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mous0926&label=Profile%20views&color=0e75b6&style=flat" alt="mous0926" /> </p>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
@@ -14,7 +16,7 @@ An aspiring full-stack developer proficient in the MERN stack with a portfolio f
 
 - 📫 How to reach me **sarkarmoumita314@gmail.com**
 
-<img src="https://github.com/MouS0926/MouS0926.github.io/blob/master/src/image/full-stack-development.gif" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/moumita-sarkar-9ab10318b/" target="__blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/moumita-sarkar-9ab10318b/" height="30" width="40" /></a>
