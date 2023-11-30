@@ -38,7 +38,7 @@ Aspiring full-stack developer proficient in the MERN stack, showcasing a diverse
 <img src="https://img.shields.io/badge/bootstrap-text?style=for-the-badge&logo=bootstrap&color=FFF68F"/>
 <img src="https://img.shields.io/badge/GIT-text?style=for-the-badge&logo=git&color=003366" />
 <img src="https://img.shields.io/badge/angular-text?style=for-the-badge&logo=angular&color=FF0000"/>
-
+<img src="https://img.shields.io/badge/Prompt%20engineering-text?style=for-the-badge&logo=&color=088F8F"/>
 </div>
 <br/><br/>
 
