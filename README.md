@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moumita Sarkar</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 <p align="center">
-An aspiring full-stack developer proficient in the MERN stack with a portfolio featuring several diverse projects, including an e-commerce platform, BMI calculator, and an AI-driven interview platform. Passionate about coding and continuously seeking opportunities to enhance skills in the field. Additionally, possesses a keen interest in cooking, art, and handicrafts, demonstrating a well-rounded and creative approach to life's pursuits.
+Aspiring full-stack developer proficient in the MERN stack, showcasing a diverse project portfolio—from an e-commerce platform to a BMI calculator and an AI-driven interview platform. Excels in leveraging Generative AI, demonstrating a remarkable ability to rapidly acquire new tech stacks. Enthusiastically passionate about coding, with a creative and well-rounded approach to life's pursuits, including interests in cooking, art, and handicrafts.
   
 </p>
 
